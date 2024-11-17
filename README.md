@@ -1,8 +1,11 @@
 # [MBA] Fundamentos do Desenvolvimento Web
-Projeto Perfil de Viagem
+
+## Projeto Perfil de Viagem
+
 mba-travelgram
 
 Página web com objetivo de aplicar os conhecimentos adquiridos nas aulas de fundamentos do desenvolvimento web.
+
 Tecnologias:
 Html, css, flexbox
 
